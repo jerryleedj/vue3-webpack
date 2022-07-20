@@ -1,0 +1,3 @@
+npm i vue@next
+npm i -D vue-loader@next vue-style-loader @vue/compiler-sfc
+npm i -D file-loader
